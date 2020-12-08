@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a data analytics certification at Thinkful
 - :snake: I’m currently learning python
 - 📫 How to reach me:
-    - :globe_with_meridians: [email] jsyoungner@gmail.com
+    - :globe_with_meridians: [email] (jsyoungner@gmail.com)
     - :office: [LinkedIn] (https://www.linkedin.com/in/jesse-youngner)
     - :man_artist: [Tableau] (https://public.tableau.com/profile/jesse7677#!/)
     - :footprints: Find me in Atlanta
